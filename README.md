@@ -1,20 +1,45 @@
-### Hi there 👋 I'm ZimmSebas, nice to meet you! 
+# ✨ About me 
 
-I'm a **software developer** and a computer science student! I enjoy building software and I'm currently incurring the beatiful world of *SRE*.
+*Hi there* 👋 
 
-I like open software projects, teaching stuff, making creative things and working in awesome teams.
+**I'm Seba, nice to meet you!**
 
-- 🔭 I usually work with:
+I'm an (almost) Master's graduate in Computer Science and a **software developer**! 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
+I enjoy a wide variety of things, but almost all of them include working on interesting challenges and creative solutions in amazing teams. 
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23A05033.svg?style=for-the-badge&logo=bash&logoColor=white)
+I like open software projects, teaching stuff, documenting stuff, making creative things and working in awesome teams while doing so. 
+Currently working in a mix of *SRE* and *binary cryptography vulnerabilities*.
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%22732244.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+### 🔭 I usually work with:
 
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white">
+  <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-03599C.svg?logo=c%2B%2B&logoColor=white">  
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white">
+  <img alt="OCaml" src="https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&labelColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white">
+</p>
 
+### 🛠️ Tools I work too:
 
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/bash-%23A05033.svg?logo=bash&logoColor=white">
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
+  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%22732244.svg?logo=jenkins&logoColor=white">
+</p>
 
+### 🎨 Other hobbies
+
+If you don't find me programming is because I am also an avid Swing dancer, sort of singer/guitarrist and hiking entusiast ⛰️
+
+## How to contact me?
 
 You can find me on:
 * [GitHub as @ZimmSebas (you are here)](https://github.com/ZimmSebas)
