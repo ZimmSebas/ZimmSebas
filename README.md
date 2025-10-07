@@ -4,12 +4,12 @@
 
 **I'm Seba, nice to meet you!**
 
-I'm an (almost) Master's graduate in Computer Science and a **software developer**! 
+I'm a **software developer** and a **research engineer** with a MS in Computer Science! 
 
 I enjoy a wide variety of things, but almost all of them include working on interesting challenges and creative solutions in amazing teams. 
 
 I like open software projects, teaching stuff, documenting stuff, making creative things and working in awesome teams while doing so. 
-Currently working in a mix of *SRE* and *binary cryptography vulnerabilities*.
+Currently working in a mix of *SRE* and researching *binary cryptography vulnerabilities*.
 
 ### 🔭 I usually work with:
 
