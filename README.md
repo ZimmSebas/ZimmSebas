@@ -1,6 +1,6 @@
 # ✨ About me 
 
-*Hi there* 👋 
+*Hello there* 👋 
 
 **I'm Seba, nice to meet you!**
 
@@ -39,8 +39,7 @@ Currently working in a mix of *SRE* and researching *binary cryptography vulnera
 
 If you don't find me programming is because I am also an avid Swing dancer, sort of singer/guitarrist and hiking entusiast ⛰️
 
-## How to contact me?
-
-You can find me on:
-* [GitHub as @ZimmSebas (you are here)](https://github.com/ZimmSebas)
-* [LinkedIn](https://ar.linkedin.com/in/sebasti%C3%A1n-zimmermann-92bab6180)
+## 🔗 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/szimm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szimm" height="30" width="40" /></a>
+<a href="https://github.com/ZimmSebas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ZimmSebas" height="30" width="40" /></a>
